@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         cxstart_png
+// @name         cxstart_downloader_png
 // @namespace    svipwly.cn
 // @version      0.3.0
 // @description  按页截图支持“多页选择”格式如1,3,5-7，配合进度条精准导出canvas截图。
