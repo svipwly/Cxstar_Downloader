@@ -1,4 +1,4 @@
-### License
+## License
 
 This project is licensed under the GNU GPL v3 (see [LICENSE](./LICENSE)),  
 with additional non-commercial terms (see [LICENSE_ADDITIONAL](./LICENSE_ADDITIONAL)).
